@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Robots.Application": {
+      "commandName": "Project",
+      "commandLineArgs": "--file ./Mock/SampleInput.txt"
+    }
+  }
+}
